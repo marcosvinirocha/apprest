@@ -1,0 +1,5 @@
+GET http://172.17.0.2:3306/empresas HTTP/1.1
+###
+GET http://172.17.0.2:3306/funcionrios HTTP/1.1
+###
+GET http://172.17.0.2:3306/enderecos HTTP/1.1
